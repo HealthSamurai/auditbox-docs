@@ -1,0 +1,20 @@
+# Auditbox
+
+> Auditbox is a HIPAA-compliant audit logging server for healthcare applications. It stores, archives, and queries FHIR AuditEvent resources.
+
+## Getting Started
+
+- [Getting Started]({{baseUrl}}/getting-started.md): Quick start guide
+- [Run Locally]({{baseUrl}}/getting-started/run-locally.md): Run Auditbox with Docker
+- [Run on Kubernetes]({{baseUrl}}/getting-started/run-k8s.md): Production deployment
+
+## Configuration
+
+- [Environment Variables]({{baseUrl}}/configuration/envs.md): All configuration options
+- [Archiving]({{baseUrl}}/configuration/archiving.md): Set up audit log archiving
+- [Identity Providers]({{baseUrl}}/configuration/idp.md): SSO and authentication
+
+## Reference
+
+- [API Reference]({{baseUrl}}/api.md): REST API documentation
+- [Release Notes]({{baseUrl}}/release-notes.md): Version history
