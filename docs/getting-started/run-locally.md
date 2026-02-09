@@ -5,7 +5,7 @@ Get Auditbox running on your local machine in a few minutes using our pre-config
 ## Prerequisites
 
 {% hint style="warning" %}
-<img src="../../assets/docker.png" 
+<img src="../../assets/docker.webp" 
      alt="docker whale image" 
      data-size="original">
 
@@ -29,7 +29,7 @@ Wait about 2 minutes for all services to load.
 Open **http://localhost:3000/** in your browser. You'll see the Auditbox login screen. 
 
 <figure class="flex justify-center">
-  <img src="../../assets/ui_login.png" alt="AuditBox login screen" style="max-width: 400px;">
+  <img src="../../assets/ui_login.webp" alt="AuditBox login screen" style="max-width: 400px;">
 </figure>
 
 {% hint style="info" %}
@@ -39,7 +39,7 @@ Auditbox uses Keycloak as the identity provider, but you can configure any other
 Click "Sign in with Keycloak" and you'll see the Keycloak login screen.
 
 <figure class="flex justify-center">
-  <img src="../../assets/kc-enter.png" alt="Keycloak login screen" style="max-width: 400px;">
+  <img src="../../assets/kc-enter.webp" alt="Keycloak login screen" style="max-width: 400px;">
 </figure>
 
 Use the following credentials to sign in:
@@ -50,7 +50,7 @@ Use the following credentials to sign in:
 Click "Sign In" and you will see the Auditbox UI.
 
 <figure>
-  <img src="../../assets/ui_main.png" alt="AuditBox UI screen">
+  <img src="../../assets/ui_main.webp" alt="AuditBox UI screen">
 </figure>
 
 ### Step 3: Discover Auditbox features
