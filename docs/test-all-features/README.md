@@ -26,7 +26,7 @@ Regular paragraph text. This is how normal content appears with enough text to s
 
 ## Links
 
-- [Internal link to Getting Started](getting-started/README.md)
+- [Internal link to Getting Started](../getting-started/README.md)
 - [External link to Health Samurai](https://health-samurai.io)
 - [Link with title](https://aidbox.io "Aidbox FHIR Platform")
 
@@ -404,7 +404,7 @@ Example video embed
 ### Content Reference
 
 {% content-ref %}
-[Getting Started Guide](getting-started/README.md)
+[Getting Started Guide](../getting-started/README.md)
 {% endcontent-ref %}
 
 ### File Download
@@ -424,7 +424,7 @@ The following example shows how to configure **multiple** features:
 2. Authentication
 3. Logging
 
-See the [configuration reference](configuration/envs.md) for all options.
+See the [configuration reference](../configuration/envs.md) for all options.
 {% endhint %}
 
 {% tabs %}
