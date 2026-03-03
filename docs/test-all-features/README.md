@@ -149,7 +149,7 @@ data:
 
 ## Images
 
-![Auditbox Dashboard](../assets/ui_main.webp)
+![Auditbox Dashboard](../assets/ui_main.avif)
 
 Small inline reference to an image.
 
@@ -409,7 +409,7 @@ Example video embed
 
 ### File Download
 
-{% file src="../assets/arch.webp" %}
+{% file src="../assets/arch.avif" %}
 Download architecture diagram
 {% endfile %}
 
