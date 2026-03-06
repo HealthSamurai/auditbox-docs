@@ -4,7 +4,7 @@ description: Comprehensive test of all markdown features and GitBook directives
 
 # Markdown Features Test
 
-This page demonstrates all supported markdown features and GitBook directives.
+This page demonstrates all supported markdown features and GitBook directives!
 
 ## Basic Text Formatting
 
