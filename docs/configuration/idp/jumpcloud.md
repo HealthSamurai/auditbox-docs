@@ -10,7 +10,7 @@ JumpCloud), but integrations with
 and other accounts is possible.
 
 <figure>
-  <img src="../../../assets/auditbox/jumpcloud-application-overview.avif" alt="JumpCloud Application Creation Interface">
+  <img src="../../../assets/jumpcloud-application-overview.avif" alt="JumpCloud Application Creation Interface">
 </figure>
 
 Some key points:
